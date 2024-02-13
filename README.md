@@ -11,8 +11,4 @@
   
 
 - ⚡ Fun fact: J'ai une vie.
-      Je ne passe pas ma vie devant mon ordinateur non plus. Voici les images qui me décrivent :
-
-<img src="https://fr.m.wikipedia.org/w/index.php?title=Fichier:Logo_Real_Madrid.svg&lang=fr" alt="Real Madrid Logo">
-<img src="https://fr.m.wikipedia.org/w/index.php?title=Fichier:Game_of_Thrones_2011_logo.svg&lang=fr" alt="Game of Thrones Logo">
-<img src="https://c4.wallpaperflare.com/wallpaper/70/188/992/muhammad-ali-sports-sport-wallpaper-preview.jpg" alt="Mohamde Ali Image">
+      Je ne passe pas ma vie devant mon ordinateur non plus. Je suis supporteur du le meilleur club au monde : Real Madrid. Je pratique de la boxe anglaise avec mes amis. J'ai une culture générale incroyable dans la cinématographie. Je lis des livres de temps en temps. Et surtout, j'aime programmer.
