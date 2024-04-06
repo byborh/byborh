@@ -6,16 +6,16 @@
      Je connais les bases et déjà effectué des projets avec des languages de programmations comme : *Java*, *Php*, *C#*, *Python*.
 
   Notes/Niveau :
-0 - Ne pas connaître du tout
-1 - Pris connaissance
-2 - Comprendre la structure
-3 - Connaître quelques commandes
-4 - Utiliser de temps en temps
-5 - Connaître les commandes de base
-6 - Se débrouiller avec des recherches
-7 - Être à l'aise
-8 - Se débrouiller sans aide
-9 - Expert
+- 0 - Ne pas connaître du tout
+- 1 - Pris connaissance
+- 2 - Comprendre la structure
+- 3 - Connaître quelques commandes
+- 4 - Utiliser de temps en temps
+- 5 - Connaître les commandes de base
+- 6 - Se débrouiller avec des recherches
+- 7 - Être à l'aise
+- 8 - Se débrouiller sans aide
+- 9 - Expert
 
 - Backend :
 	- Node js			- 6
