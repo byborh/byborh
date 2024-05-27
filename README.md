@@ -11,16 +11,16 @@
       Je ne passe pas ma vie devant mon ordinateur non plus. Je suis supporteur du meilleur club au monde : **Real Madrid**. Je pratique de la boxe anglaise avec mes amis. J'ai une culture générale incroyable dans la *cinématographie*. Je lis des livres de temps en temps. Et surtout, j'aime programmer.
 
   Notes/Niveau :
-  0 - Ne pas connaître du tout
-  1 - Pris connaissance
-  2 - Comprendre la structure
-  3 - Connaître quelques commandes
-  4 - Utiliser de temps en temps
-  5 - Connaître les commandes de base
-  6 - Se débrouiller avec des recherches
-  7 - Être à l'aise
-  8 - Se débrouiller sans aide
-  9 - Expert
+  - 0 - Ne pas connaître du tout
+  - 1 - Pris connaissance
+  - 2 - Comprendre la structure
+  - 3 - Connaître quelques commandes
+  - 4 - Utiliser de temps en temps
+  - 5 - Connaître les commandes de base
+  - 6 - Se débrouiller avec des recherches
+  - 7 - Être à l'aise
+  - 8 - Se débrouiller sans aide
+  - 9 - Expert
 
 - Backend :
 	- Node js			- 6
