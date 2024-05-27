@@ -5,25 +5,30 @@
 - 🌸 Futur Mark Zuckerberg. Passioné par l'informatique, j'apprend la programmation. Je maîtrise le *JavaScript* (+*Vue*, *Node*), *Sql*
      Je connais les bases et déjà effectué des projets avec des languages de programmations comme : *Java*, *Php*, *C#*, *Python*.
 
+- 🌱 Je suis actuellement étudiant du **BTS SIO** en première année à Bordeaux.
+
+- ⚡ Fun fact: J'ai une vie.
+      Je ne passe pas ma vie devant mon ordinateur non plus. Je suis supporteur du meilleur club au monde : **Real Madrid**. Je pratique de la boxe anglaise avec mes amis. J'ai une culture générale incroyable dans la *cinématographie*. Je lis des livres de temps en temps. Et surtout, j'aime programmer.
+
   Notes/Niveau :
-- 0 - Ne pas connaître du tout
-- 1 - Pris connaissance
-- 2 - Comprendre la structure
-- 3 - Connaître quelques commandes
-- 4 - Utiliser de temps en temps
-- 5 - Connaître les commandes de base
-- 6 - Se débrouiller avec des recherches
-- 7 - Être à l'aise
-- 8 - Se débrouiller sans aide
-- 9 - Expert
+  0 - Ne pas connaître du tout
+  1 - Pris connaissance
+  2 - Comprendre la structure
+  3 - Connaître quelques commandes
+  4 - Utiliser de temps en temps
+  5 - Connaître les commandes de base
+  6 - Se débrouiller avec des recherches
+  7 - Être à l'aise
+  8 - Se débrouiller sans aide
+  9 - Expert
 
 - Backend :
 	- Node js			- 6
 	- Express Js		- 6
-	- Nest Js			- 2
+	- Nest Js			- 6
 	- Php			- 5
 	- Laravel			- 1
-	- Python			- 5
+	- Python			- 6
 	- C#				- 4
 	- Java			- 3
 	- TypeScript		- 2
@@ -67,8 +72,3 @@
 - Sécurité (Best Practices)		- 5	
 
 - GitOps				- 0
-
-- 🌱 Je suis actuellement étudiant du **BTS SIO** en première année à Bordeaux.
-
-- ⚡ Fun fact: J'ai une vie.
-      Je ne passe pas ma vie devant mon ordinateur non plus. Je suis supporteur du meilleur club au monde : **Real Madrid**. Je pratique de la boxe anglaise avec mes amis. J'ai une culture générale incroyable dans la *cinématographie*. Je lis des livres de temps en temps. Et surtout, j'aime programmer.
