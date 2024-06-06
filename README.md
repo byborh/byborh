@@ -1,74 +1,69 @@
-# Hey there :wave:
+# Bienvenue sur mon profil GitHub ! :wave:
 
-#### Présentation
+## À propos de moi
 
-- 🌸 Futur Mark Zuckerberg. Passioné par l'informatique, j'apprend la programmation. Je maîtrise le *JavaScript* (+*Vue*, *Node*), *Sql*
-     Je connais les bases et déjà effectué des projets avec des languages de programmations comme : *Java*, *Php*, *C#*, *Python*.
+Je suis passionné par l'informatique et je suis en train d'apprendre la programmation. Actuellement étudiant en première année de BTS SIO à Bordeaux, voici quelques informations sur moi :
 
-- 🌱 Je suis actuellement étudiant du **BTS SIO** en première année à Bordeaux.
+- :computer: Maîtrise des langages : JavaScript (Vue.js, Node.js), SQL, et expérience avec Java, PHP, C#, Python.
+- :seedling: Je suis toujours en train d'apprendre et de me perfectionner.
+- ⚡ Fun fact: Je mène une vie équilibrée en dehors de l'informatique. Je suis un grand supporter du Real Madrid, je pratique la boxe anglaise, j'ai une passion pour la cinématographie, je lis des livres et, bien sûr, j'adore programmer !
 
-- ⚡ Fun fact: J'ai une vie.
-      Je ne passe pas ma vie devant mon ordinateur non plus. Je suis supporteur du meilleur club au monde : **Real Madrid**. Je pratique de la boxe anglaise avec mes amis. J'ai une culture générale incroyable dans la *cinématographie*. Je lis des livres de temps en temps. Et surtout, j'aime programmer.
+## Niveau de compétence
 
-  Notes/Niveau :
-  - 0 - Ne pas connaître du tout
-  - 1 - Pris connaissance
-  - 2 - Comprendre la structure
-  - 3 - Connaître quelques commandes
-  - 4 - Utiliser de temps en temps
-  - 5 - Connaître les commandes de base
-  - 6 - Se débrouiller avec des recherches
-  - 7 - Être à l'aise
-  - 8 - Se débrouiller sans aide
-  - 9 - Expert
+### Backend
+| Langage     | Niveau |
+|-------------|--------|
+| Node.js     | 6      |
+| Express.js  | 6      |
+| Nest.js     | 6      |
+| PHP         | 6      |
+| Laravel     | 1      |
+| Python      | 6      |
+| C#          | 3      |
+| Java        | 3      |
+| TypeScript  | 5      |
 
-- Backend :
-	- Node js			- 6
-	- Express Js		- 6
-	- Nest Js			- 6
-	- Php			- 6
-	- Laravel			- 1
-	- Python			- 6
-	- C#				- 3
-	- Java			- 3
-	- TypeScript		- 5
-- Frontend :
-	- Html			- 8
-	- Css			- 8
-	- JavaScript		- 6
-	- Vue Js			- 6
-	- Quasar			- 6
-	- 
-- Base de Donnée :
-	- Sql			- 5
-	- MongoDb			- 2
-- Conteneurisation :
-	- Docker			- 3
-	- Kubernetes		- 1
-- Virsionnisation :
-	- Git			- 7
+### Frontend
+| Langage     | Niveau |
+|-------------|--------|
+| HTML        | 8      |
+| CSS         | 8      |
+| JavaScript  | 6      |
+| Vue.js      | 6      |
+| Quasar      | 6      |
 
-- Automatisation :
-	- Jenkins			- 0
-	- Ansible			- 0
-	- Terraform		- 0
+### Base de Données
+| Technologie | Niveau |
+|-------------|--------|
+| SQL         | 5      |
+| MongoDB     | 2      |
 
-- Cloud :
-	- AWS / Azure / Google Cloud		-0
-	- CI/CD (Intégration Continue / Déploiement Continu)		- 0
+### Conteneurisation
+| Technologie | Niveau |
+|-------------|--------|
+| Docker      | 3      |
+| Kubernetes  | 1      |
 
-- Infrastructure as Code (IaC)		-0
+### Automatisation
+| Outil       | Niveau |
+|-------------|--------|
+| Jenkins     | 0      |
+| Ansible     | 0      |
+| Terraform   | 0      |
 
-- Monitoring			- 0
+### Cloud
+| Plateforme          | Niveau |
+|---------------------|--------|
+| AWS / Azure / GCP   | 0      |
+| CI/CD               | 0      |
 
-- Scripting :
-	- Python			- 6
-	- Bash			- 2
+### Autres Compétences
+- Infrastructure as Code (IaC): 0
+- Monitoring: 0
+- Scripting: Python (6), Bash (2)
+- Administration Linux: 3
+- Networking Basics: 0
+- Sécurité (Best Practices): 5
+- GitOps: 0
 
-- Administration Linux	- 3
-
-- Networking Basics		- 0
-
-- Sécurité (Best Practices)		- 5	
-
-- GitOps				- 0
+N'hésitez pas à explorer mes projets !
