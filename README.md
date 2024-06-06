@@ -26,12 +26,12 @@
 	- Node js			- 6
 	- Express Js		- 6
 	- Nest Js			- 6
-	- Php			- 5
+	- Php			- 6
 	- Laravel			- 1
 	- Python			- 6
-	- C#				- 4
+	- C#				- 3
 	- Java			- 3
-	- TypeScript		- 2
+	- TypeScript		- 5
 - Frontend :
 	- Html			- 8
 	- Css			- 8
@@ -40,7 +40,7 @@
 	- Quasar			- 6
 	- 
 - Base de Donnée :
-	- Sql			- 4
+	- Sql			- 5
 	- MongoDb			- 2
 - Conteneurisation :
 	- Docker			- 3
@@ -62,7 +62,7 @@
 - Monitoring			- 0
 
 - Scripting :
-	- Python			- 5
+	- Python			- 6
 	- Bash			- 2
 
 - Administration Linux	- 3
