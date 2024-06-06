@@ -11,59 +11,62 @@ Je suis passionné par l'informatique et je suis en train d'apprendre la program
 ## Niveau de compétence
 
 ### Backend
-| Langage     | Niveau |
-|-------------|--------|
-| Node.js     | 6      |
-| Express.js  | 6      |
-| Nest.js     | 6      |
-| PHP         | 6      |
-| Laravel     | 1      |
-| Python      | 6      |
-| C#          | 3      |
-| Java        | 3      |
-| TypeScript  | 5      |
+| Langage     | Niveau | Note |
+|-------------|--------|------|
+| Node.js     | 6      | Se débrouiller avec des recherches |
+| Express.js  | 6      | Se débrouiller avec des recherches |
+| Nest.js     | 6      | Se débrouiller avec des recherches |
+| PHP         | 6      | Se débrouiller avec des recherches |
+| Laravel     | 1      | Connaître quelques commandes |
+| Python      | 6      | Se débrouiller avec des recherches |
+| C#          | 3      | Connaître quelques commandes |
+| Java        | 3      | Connaître quelques commandes |
+| TypeScript  | 5      | Connaître les commandes de base |
 
 ### Frontend
-| Langage     | Niveau |
-|-------------|--------|
-| HTML        | 8      |
-| CSS         | 8      |
-| JavaScript  | 6      |
-| Vue.js      | 6      |
-| Quasar      | 6      |
+| Langage     | Niveau | Note |
+|-------------|--------|------|
+| HTML        | 8      | Se débrouiller sans aide |
+| CSS         | 8      | Se débrouiller sans aide |
+| JavaScript  | 6      | Se débrouiller avec des recherches |
+| Vue.js      | 6      | Se débrouiller avec des recherches |
+| Quasar      | 6      | Se débrouiller avec des recherches |
 
 ### Base de Données
-| Technologie | Niveau |
-|-------------|--------|
-| SQL         | 5      |
-| MongoDB     | 2      |
+| Technologie | Niveau | Note |
+|-------------|--------|------|
+| SQL         | 5      | Connaître les commandes de base |
+| MongoDB     | 2      | Comprendre la structure |
 
 ### Conteneurisation
-| Technologie | Niveau |
-|-------------|--------|
-| Docker      | 3      |
-| Kubernetes  | 1      |
+| Technologie | Niveau | Note |
+|-------------|--------|------|
+| Docker      | 3      | Connaître quelques commandes |
+| Kubernetes  | 1      | Pris connaissance |
 
 ### Automatisation
-| Outil       | Niveau |
-|-------------|--------|
-| Jenkins     | 0      |
-| Ansible     | 0      |
-| Terraform   | 0      |
+| Outil       | Niveau | Note |
+|-------------|--------|------|
+| Jenkins     | 0      | Ne pas connaître du tout |
+| Ansible     | 0      | Ne pas connaître du tout |
+| Terraform   | 0      | Ne pas connaître du tout |
 
 ### Cloud
-| Plateforme          | Niveau |
-|---------------------|--------|
-| AWS / Azure / GCP   | 0      |
-| CI/CD               | 0      |
+| Plateforme          | Niveau | Note |
+|---------------------|--------|------|
+| AWS / Azure / GCP   | 0      | Ne pas connaître du tout |
+| CI/CD               | 0      | Ne pas connaître du tout |
 
 ### Autres Compétences
-- Infrastructure as Code (IaC): 0
-- Monitoring: 0
-- Scripting: Python (6), Bash (2)
-- Administration Linux: 3
-- Networking Basics: 0
-- Sécurité (Best Practices): 5
-- GitOps: 0
+| Compétence                   | Niveau | Note |
+|------------------------------|--------|------|
+| Infrastructure as Code (IaC) | 0      | Ne pas connaître du tout |
+| Monitoring                   | 0      | Ne pas connaître du tout |
+| Scripting: Python            | 6      | Se débrouiller avec des recherches |
+| Scripting: Bash              | 2      | Comprendre la structure |
+| Administration Linux         | 3      | Connaître quelques commandes |
+| Networking Basics            | 0      | Ne pas connaître du tout |
+| Sécurité (Best Practices)   | 5      | Connaître les commandes de base |
+| GitOps                       | 0      | Ne pas connaître du tout |
 
 N'hésitez pas à explorer mes projets !
