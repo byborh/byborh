@@ -68,5 +68,3 @@ Je suis passionné par l'informatique et je suis en train d'apprendre la program
 | Networking Basics            | 0      | Ne pas connaître du tout |
 | Sécurité (Best Practices)   | 5      | Connaître les commandes de base |
 | GitOps                       | 0      | Ne pas connaître du tout |
-
-N'hésitez pas à explorer mes projets !
