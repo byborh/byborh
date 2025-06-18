@@ -1,12 +1,10 @@
-# Salut ! 👋 Bienvenue sur mon profil GitHub 🌸💙
+# You get what you deserve. (my favorite quote) 🌸💙
 
 ---
 
 ## À propos de moi
 
 Je suis juste un mec chill, qui aime coder, apprendre et aimer ce que je fais !  
-
----
 
 ## Statistiques de contribution 🦸‍♂️
 
@@ -32,7 +30,3 @@ Je suis juste un mec chill, qui aime coder, apprendre et aimer ce que je fais !
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-## You get what you deserve. (my favorite quote) ! 🚀
