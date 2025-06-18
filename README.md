@@ -10,7 +10,7 @@ Je suis juste un mec chill, qui aime coder, apprendre et aimer ce que je fais !
 
 ![Graphique de commits](https://github-readme-stats.vercel.app/api?username=byborh&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-*J'essaie de m'occuper tout le temps pour apprendre en permancence*
+*J'essaie de m'occuper tout le temps pour apprendre en permancence.*
 
 ---
 
