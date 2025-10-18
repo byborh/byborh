@@ -17,20 +17,3 @@ i'm Beibarys
 
 ![Graphique de commits](https://github-readme-stats.vercel.app/api?username=byborh&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byborh&layout=compact&hide_title=true&hide_border=true&langs_count=10&hide=html,css)
-
-
----
-
-## My favorite languages 💻
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-## Other 🛠️
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
