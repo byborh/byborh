@@ -4,10 +4,11 @@
 
 i'm Beibarys
 
-🔭 I’m currently working at Mongo3D as a Platform & Service Developer within the software team. 
-🌱 Outside of work, I'm currently building  
-    [Physics](https://github.com/byborh/physics): Learn and review physics easily 
-    [Datte](https://github.com/byborh/datte): Your go-to backend !
+🔭 I’m currently working at Mongo3D as a Platform & Service Developer within the software team.
+
+🌱 Outside of work, I'm currently building
+[physics](https://github.com/byborh/physics): Learn and review physics easil and
+[datte](https://github.com/byborh/datte): Your go-to backend !
 
 ![Graphique de commits](https://github-readme-stats.vercel.app/api?username=byborh&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
