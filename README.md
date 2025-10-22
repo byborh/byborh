@@ -14,6 +14,6 @@ i'm Beibarys
 - [careerLauncher](https://github.com/byborh/careerLauncher): Collection of public emails from top tech companies.
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byborh&layout=compact&hide_title=true&hide_border=true&langs_count=10&hide=html,css)
 
 ![Graphique de commits](https://github-readme-stats.vercel.app/api?username=byborh&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byborh&layout=compact&hide_title=true&hide_border=true&langs_count=10&hide=html,css)
