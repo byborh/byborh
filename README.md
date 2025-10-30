@@ -7,11 +7,11 @@ i'm Beibarys
 🌱 Outside of work, I'm currently building
 
 
-- [physics](https://github.com/byborh/physics): Learn and review physics easily.
+- [careerLauncher](https://github.com/byborh/careerLauncher): Collection of public emails from top tech companies.
 
 - [datte](https://github.com/byborh/datte): Your go-to backend !
-
-- [careerLauncher](https://github.com/byborh/careerLauncher): Collection of public emails from top tech companies.
+  
+- [physics](https://github.com/byborh/physics): Learn and review physics easily.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byborh&layout=compact&hide_title=true&hide_border=true&langs_count=10&hide=html,css)
