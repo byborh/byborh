@@ -11,7 +11,3 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=byborh&label=Profile%20views&color=d07744&style=flat)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byborh&layout=compact&hide_title=true&hide_border=true&langs_count=10&hide=html,css)
-
-![Graphique de commits](https://github-readme-stats.vercel.app/api?username=byborh&show_icons=true&theme=radical&hide_border=true&count_private=true)
