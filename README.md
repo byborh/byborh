@@ -7,7 +7,7 @@
 
 - [datte](https://github.com/byborh/datte): Your go-to backend !
 
-- Akjol [front](https://github.com/byborh/akjol-front) [back](https://github.com/byborh/akjol-back): Student life simulation.
+- Akjol [front](https://github.com/byborh/akjol-front) + [back](https://github.com/byborh/akjol-back): Student life simulation.
   
 - [physics](https://github.com/byborh/physics): Learn and review physics easily.
 
