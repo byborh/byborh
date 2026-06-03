@@ -7,6 +7,4 @@
 
 - [datte](https://github.com/byborh/datte): Your go-to backend !
   
-- [physics](https://github.com/byborh/physics): Learn and review physics easily.
-
 ![Profile Views](https://komarev.com/ghpvc/?username=byborh&label=Profile%20views&color=d07744&style=flat)
