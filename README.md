@@ -7,6 +7,6 @@
 
 - [datte](https://github.com/byborh/datte): Your go-to backend !
 
-- [akjol](https://github.com/byborh/akjol): Education router: Discover careers around the world and further study options suited to your situation
+- [akjol](https://github.com/byborh/akjol): Education router: Discover careers around the world and further study options
 
 ![Profile Views](https://komarev.com/ghpvc/?username=byborh&label=Profile%20views&color=d07744&style=flat)
