@@ -1,6 +1,6 @@
 # Hi!
 
-🔭 I’m currently working at [Mongo3D](https://github.com/Mango3D) as a Platform & Service Developer within the software team.
+🔭 I’m currently working at [Mango3D](https://github.com/Mango3D) as a Platform & Service Developer within the software team.
 
 🌱 Outside of work, I'm currently building: 
 - [careerLauncher](https://github.com/byborh/careerLauncher): Collection of public emails from top tech companies.
